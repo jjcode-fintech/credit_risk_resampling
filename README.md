@@ -1,5 +1,4 @@
 # credit_risk_resampling
-# Module 12 Report Template
 
 ## Overview of the Analysis
 
